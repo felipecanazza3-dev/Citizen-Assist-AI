@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": ["cartao sus", "cartao do sus", "sus", "cns", "cartao nacional de saude"],
+    "resposta": "Procure uma UBS (posto de saúde) para ter o Cartão Nacional de Saúde. O número do cartão também pode ser consultado no app ou no site Meu SUS Digital, entrando com a conta gov.br.",
+    "documentos": ["Documento com foto", "CPF", "Comprovante de residência (confirme na UBS)"],
+    "onde": "Qualquer UBS ou aplicativo/site Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Ver a carteira de vacinação digital",
+    "palavras_chave": ["carteira de vacinacao", "caderneta de vacinacao", "carteirinha de vacina", "vacinas tomadas", "historico de vacinas", "meu sus digital", "comprovante de vacina"],
+    "resposta": "Abra o app Meu SUS Digital (ou o site meususdigital.saude.gov.br) e entre com a conta gov.br. Depois vá em Minha Saúde e toque em Vacinas. Se alguma vacina não aparecer, procure a unidade de saúde onde você a tomou, levando a caderneta de papel.",
+    "documentos": ["Conta gov.br (CPF e senha)", "Caderneta de vacinação de papel, se faltar alguma vacina"],
+    "onde": "App Meu SUS Digital, site meususdigital.saude.gov.br ou unidade de saúde",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/quer-consultar-suas-vacinas-saiba-como-acessar-a-carteira-de-vacinacao-pelo-meu-sus-digital",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Vacina da gripe para pessoas idosas",
+    "palavras_chave": ["vacina da gripe", "vacina contra gripe", "vacina gripe", "gripe", "influenza"],
+    "resposta": "A vacina contra a gripe é gratuita no SUS e as pessoas com 60 anos ou mais fazem parte do público prioritário. Procure uma UBS e leve um documento com foto ou a caderneta de vacinação.",
+    "documentos": ["Documento com foto ou caderneta de vacinação"],
+    "onde": "Unidade Básica de Saúde (UBS) ou posto de vacinação",
+    "fonte": "https://www.gov.br/vacinacao",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 4,
+    "categoria": "Saúde",
+    "titulo": "Remédios gratuitos na Farmácia Popular",
+    "palavras_chave": ["farmacia popular", "remedio gratis", "remedio gratuito", "remedios gratuitos", "medicamento gratuito", "medicamentos gratuitos", "remedio de graca", "remedios de graca", "fralda geriatrica"],
+    "resposta": "O programa Farmácia Popular dá alguns remédios de graça (por exemplo, para hipertensão, diabetes e asma) nas farmácias com o selo Aqui tem Farmácia Popular. É preciso ter receita médica válida. Fraldas geriátricas têm regras próprias: 60 anos ou mais, ou pessoa com deficiência. Dúvidas: Ouvidoria do SUS, telefone 136.",
+    "documentos": ["Documento oficial com foto", "CPF", "Receita médica válida"],
+    "onde": "Farmácia com o selo Aqui tem Farmácia Popular",
+    "fonte": "https://www.gov.br/saude/pt-br",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 5,
+    "categoria": "Benefícios e renda",
+    "titulo": "Aposentadoria e serviços do INSS pelo Meu INSS",
+    "palavras_chave": ["inss", "meu inss", "aposentadoria", "aposentar", "pedir beneficio", "135"],
+    "resposta": "Você pode pedir aposentadoria, ver extrato e fazer outros serviços do INSS pelo app ou site Meu INSS, com a conta gov.br, ou pelo telefone 135. Use só esses canais oficiais.",
+    "documentos": ["CPF", "Conta gov.br (CPF e senha)", "Os documentos de cada serviço aparecem no Meu INSS"],
+    "onde": "App ou site Meu INSS (meu.inss.gov.br), telefone 135 ou agência com agendamento",
+    "fonte": "https://www.gov.br/inss/pt-br",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 6,
+    "categoria": "Benefícios e renda",
+    "titulo": "BPC: benefício para idosos de baixa renda (65 anos ou mais)",
+    "palavras_chave": ["bpc", "loas", "beneficio assistencial", "beneficio de prestacao continuada", "cadunico", "cad unico", "cadastro unico", "cras"],
+    "resposta": "O BPC paga um salário mínimo por mês a quem tem 65 anos ou mais e renda por pessoa da família de até 1/4 do salário mínimo. Não é preciso ter contribuído com o INSS. É preciso estar no Cadastro Único (CadÚnico) atualizado, que se faz no CRAS. O pedido é feito pelo Meu INSS ou pelo telefone 135. Em geral, quem recebe outro benefício da previdência não pode receber o BPC.",
+    "documentos": ["Documento com foto", "CPF", "Cadastro Único (CadÚnico) atualizado", "Conta gov.br (CPF e senha)"],
+    "onde": "CRAS (para o CadÚnico); Meu INSS ou telefone 135 (para o pedido)",
+    "fonte": "https://www.gov.br/inss/pt-br",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 7,
+    "categoria": "Direitos e transporte",
+    "titulo": "Atendimento prioritário para pessoas idosas",
+    "palavras_chave": ["atendimento prioritario", "prioritario", "prioridade", "fila preferencial", "caixa preferencial", "preferencial", "fila de idoso"],
+    "resposta": "Pessoas com 60 anos ou mais têm direito a atendimento prioritário em órgãos públicos, bancos e serviços em geral. Quem tem 80 anos ou mais tem prioridade especial entre os idosos. Se não respeitarem, avise o responsável pelo local e mostre um documento que comprove a idade.",
+    "documentos": ["Documento com foto que mostre a idade"],
+    "onde": "Órgãos públicos, bancos e outros serviços",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l10048.htm",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 8,
+    "categoria": "Direitos e transporte",
+    "titulo": "Ônibus urbano gratuito para pessoas idosas",
+    "palavras_chave": ["onibus gratis", "onibus gratuito", "transporte gratuito", "passe livre", "gratuidade", "bilhete unico", "onibus urbano", "passagem gratis"],
+    "resposta": "Quem tem 65 anos ou mais tem gratuidade no ônibus urbano e semiurbano, bastando mostrar um documento pessoal que prove a idade. De 60 a 64 anos, depende da lei da sua cidade. Serviços seletivos e especiais não entram na regra. Em algumas cidades pode ser preciso um cartão: confirme na prefeitura ou na empresa de transporte.",
+    "documentos": ["Documento pessoal que prove a idade"],
+    "onde": "Ônibus urbano e semiurbano da sua cidade; prefeitura ou empresa de transporte para dúvidas",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 9,
+    "categoria": "Direitos e transporte",
+    "titulo": "Passagem gratuita ou com desconto em viagens entre estados",
+    "palavras_chave": ["viagem interestadual", "passagem interestadual", "onibus interestadual", "interestadual", "bilhete de viagem do idoso", "viajar de graca", "passagem gratuita", "viagem de onibus", "antt"],
+    "resposta": "Em viagens de ônibus entre estados, a pessoa idosa (60 anos ou mais) com renda de até 2 salários mínimos tem direito a 2 vagas gratuitas por veículo. Para quem passar das vagas gratuitas, há desconto de pelo menos 50%. Peça o Bilhete de Viagem do Idoso no guichê da empresa com pelo menos 3 horas de antecedência. No dia, chegue ao terminal até 30 minutos antes. Se a empresa recusar, peça um documento com data, hora e motivo e reclame à ANTT pelo telefone 166.",
+    "documentos": ["Documento original com foto", "Comprovante de renda (até 2 salários mínimos)"],
+    "onde": "Guichê ou ponto de venda da empresa de ônibus",
+    "fonte": "https://www.gov.br/antt/pt-br/assuntos/passageiros/viajantes/cartilhas/cartilha-do-idoso.pdf",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 10,
+    "categoria": "Segurança e consumo",
+    "titulo": "Como se proteger de golpes contra aposentados",
+    "palavras_chave": ["golpe", "golpes", "golpe do inss", "prova de vida", "falsa ligacao", "ligacao falsa", "golpista", "fraude", "fake"],
+    "resposta": "O INSS não pede senhas, dados pessoais nem transferência de dinheiro, e não faz prova de vida por telefone ou mensagem de texto. Se receber um contato assim, não responda e não clique em links. Confirme ligando você mesmo para o 135 ou pelo app Meu INSS. Se cair em um golpe, registre boletim de ocorrência e avise o banco e o INSS.",
+    "documentos": ["Não é preciso levar documentos"],
+    "onde": "Telefone 135 (ligue você mesmo) ou app Meu INSS",
+    "fonte": "https://www.gov.br/inss/pt-br/assuntos/e-fake-golpistas-se-passam-pela-central-135-para-enganar-segurados-sobre-a-prova-de-vida",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 11,
+    "categoria": "Segurança e consumo",
+    "titulo": "Denunciar violência ou maus-tratos contra pessoa idosa",
+    "palavras_chave": ["disque 100", "violencia", "maus tratos", "denunciar", "denuncia", "abandono", "negligencia", "agressao"],
+    "resposta": "Se uma pessoa idosa sofre violência, maus-tratos, abandono ou negligência, ligue para o Disque 100. A ligação é gratuita e quem denuncia não precisa se identificar. Em caso de risco imediato, ligue também para a polícia (190).",
+    "documentos": ["Não é preciso documento para denunciar"],
+    "onde": "Telefone Disque 100 ou site gov.br/mdh/pt-br/ondh",
+    "fonte": "https://www.gov.br/mdh/pt-br/ondh",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 12,
+    "categoria": "Segurança e consumo",
+    "titulo": "Reclamar de uma compra ou serviço (Procon e Consumidor.gov.br)",
+    "palavras_chave": ["compra deu errado", "compra errada", "produto com defeito", "reclamar", "reclamacao", "procon", "consumidor", "reembolso", "devolucao", "nao recebi"],
+    "resposta": "Primeiro tente resolver com a empresa (SAC) e guarde os números de protocolo. Se não resolver, registre a reclamação no site consumidor.gov.br: a empresa tem até 10 dias para responder. Você também pode procurar o Procon da sua cidade ou estado.",
+    "documentos": ["Nota fiscal ou comprovante da compra", "Prints ou mensagens trocadas com a empresa", "Protocolos de atendimento", "Conta gov.br, para usar o site"],
+    "onde": "Site consumidor.gov.br ou Procon da sua cidade ou estado",
+    "fonte": "https://www.consumidor.gov.br",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 13,
+    "categoria": "Serviços digitais",
+    "titulo": "Conta gov.br: criar e usar",
+    "palavras_chave": ["gov br", "govbr", "conta gov", "senha gov", "conta do governo", "nivel prata", "nivel ouro", "criar conta"],
+    "resposta": "A conta gov.br é um login único para serviços do governo, como o Meu INSS e o Meu SUS Digital. É gratuita e pode ser criada pelo app gov.br ou pelo site, informando o CPF. Toda conta começa no nível bronze; alguns serviços pedem nível prata ou ouro, que exigem uma validação extra (por exemplo, reconhecimento facial ou banco credenciado). Não passe sua senha para ninguém.",
+    "documentos": ["CPF"],
+    "onde": "App gov.br ou site gov.br",
+    "fonte": "https://www.gov.br/governodigital/pt-br/conta-gov-br/saiba-mais-sobre-os-niveis-da-conta-govbr/saiba-mais-sobre-os-niveis-da-conta-govbr",
+    "verificado_em": "2026-11-12"
+  }
+]
