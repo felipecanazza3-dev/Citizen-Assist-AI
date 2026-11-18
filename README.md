@@ -136,7 +136,7 @@ Todas as orientações trazem a fonte oficial e a data de verificação no próp
 - Tentativas por atendimento: [1.5]
 - Facilidade de uso (1 a 5): [1,5]
 - Dúvidas sem solução: [2 duvidas]
-- **Melhoria feita a partir do teste:** [colocamos mais palavras de referencia na base de dados]
+- **Melhoria feita a partir do teste:** [algumas perguntas dos usuários não foram encontradas por usarem palavras diferentes das cadastradas. Para resolver, incluímos novas palavras-chave nas orientações do arquivo base_conhecimento.json, e as mesmas perguntas passaram a ser encontradas.]
 
 ## Limitações
 
@@ -147,4 +147,4 @@ Todas as orientações trazem a fonte oficial e a data de verificação no próp
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): [PREENCHER]
+Link (YouTube, não listado): [https://youtu.be/MC37azVLwIM?is=YvhC8ltAdkET-JTk]
